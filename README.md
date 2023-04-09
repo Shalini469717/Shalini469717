@@ -35,9 +35,8 @@ src="https://img.shields.io/twitter/follow/noname469717?logo=twitter&style=for-t
 <p align="left"> <a href="https://www.github.com/Shalini469717" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shalini-muskula-52323922a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/noname469717" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></a> <a href="https://hashnode.com/@Shalini469717" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></p>
 
 <hr>
-<!-- Blogs-list-start -->
-
-<!-- Blogs-list-end -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 ### Badges
 
