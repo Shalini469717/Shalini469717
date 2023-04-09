@@ -5,10 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in India
+* 📍 I'm based in India
 * ✉️  You can contact me at [shalinimuskula469@gmail.com](mailto:shalinimuskula469@gmail.com)
 * 🧠  I'm learning Javascript
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+* 🌏 Open Source Enthusiast
+
 <a href="https://www.twitter.com/noname469717" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/noname469717?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
@@ -51,9 +52,5 @@ src="https://img.shields.io/twitter/follow/noname469717?logo=twitter&style=for-t
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Shalini469717"><img src="https://github-readme-stats.vercel.app/api?username=Shalini469717&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shalini469717's GitHub stats" /></a>
-
-<a href="http://www.github.com/Shalini469717"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shalini469717&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Shalini469717" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini469717&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
