@@ -44,10 +44,6 @@ src="https://img.shields.io/twitter/follow/noname469717?logo=twitter&style=for-t
 - [JavaScript Functions](https://shaliniblog.hashnode.dev//javascript-functions)
 - [JavaScript Loops and Switch](https://shaliniblog.hashnode.dev//javascript-loops-and-switch)
 - [JavaScript Variables, Data Types, Operators](https://shaliniblog.hashnode.dev//javascript-variables-data-types-operators)
-- [JavaScript  Basics](https://shaliniblog.hashnode.dev//javascript-basics)
-- [JavaScript  Introduction](https://shaliniblog.hashnode.dev//javascript-introduction)
-- [How does the Internet work?](https://shaliniblog.hashnode.dev//how-does-the-internet-work)
-- [Building a Weather App using Node.js](https://shaliniblog.hashnode.dev//building-a-weather-app-using-nodejs)
 <!-- HASHNODE_BLOG:END -->
 
 ### Badges
