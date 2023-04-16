@@ -39,6 +39,7 @@ src="https://img.shields.io/twitter/follow/noname469717?logo=twitter&style=for-t
 ## Latest Blogs
 
 <!-- HASHNODE_BLOG:START -->
+- [React - 02: Components](https://shaliniblog.hashnode.dev//react-02-components)
 - [CRUD operations in MongoDB](https://shaliniblog.hashnode.dev//crud-operations-in-mongodb)
 - [JavaScript Functions](https://shaliniblog.hashnode.dev//javascript-functions)
 - [JavaScript Loops and Switch](https://shaliniblog.hashnode.dev//javascript-loops-and-switch)
