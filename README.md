@@ -40,11 +40,11 @@ src="https://img.shields.io/twitter/follow/noname469717?logo=twitter&style=for-t
 ## Latest Blogs
 
 <!-- HASHNODE_BLOG:START -->
+- [How to use Bootstrap in React?](https://shaliniblog.hashnode.dev//how-to-use-bootstrap-in-react)
 - [Learn how to use components in React within 5 minutes.](https://shaliniblog.hashnode.dev//learn-how-to-use-components-in-react-within-5-minutes)
 - [React State : Use State explained in 5 minutes.](https://shaliniblog.hashnode.dev//react-state-use-state-explained-in-5-minutes)
 - [CRUD operations in MongoDB](https://shaliniblog.hashnode.dev//crud-operations-in-mongodb)
 - [JavaScript Functions](https://shaliniblog.hashnode.dev//javascript-functions)
-- [Conditional Statements and Loops in JavaScript](https://shaliniblog.hashnode.dev//conditional-statements-and-loops-in-javascript)
 <!-- HASHNODE_BLOG:END -->
 
 ### Badges
