@@ -40,8 +40,8 @@ src="https://img.shields.io/twitter/follow/noname469717?logo=twitter&style=for-t
 ## Latest Blogs
 
 <!-- HASHNODE_BLOG:START -->
-- [Bitwise Operators Unveiled](https://shaliniblog.hashnode.dev//bitwise-operators-unveiled)
 - [Bubble, Selection, and Insertion Sort: Classic Sorting Algorithms Revisited](https://shaliniblog.hashnode.dev//sorting-algorithms)
+- [Bitwise Operators Unveiled](https://shaliniblog.hashnode.dev//bitwise-operators-unveiled)
 - [Couldn't attend the Hashnode's Bootcamp?](https://shaliniblog.hashnode.dev//couldnt-attend-the-hashnodes-bootcamp)
 - [Passing data from Child to Parent in React](https://shaliniblog.hashnode.dev//passing-data-from-child-to-parent-in-react)
 - [How to use Bootstrap in React?](https://shaliniblog.hashnode.dev//how-to-use-bootstrap-in-react)
